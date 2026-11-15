@@ -19,9 +19,8 @@
   "abstract_word_count": 206,
   "visual_review": "All seven pages rendered and inspected; charts enlarged for column readability.",
   "uncompiled_source": "LaTeX source is provided in IEEEtran format, but no LaTeX compiler is available in the preparation environment. The delivered PDF was independently typeset and visually checked.",
-  "pending": [
-    "University/affiliation"
-  ],
+  "pending": [],
   "repository_url": "https://github.com/Sneyderx/comparacion-escoliosis-vgg16-yolo",
-  "colab_url": "https://colab.research.google.com/github/Sneyderx/comparacion-escoliosis-vgg16-yolo/blob/main/Colab_escoliosis.ipynb"
+  "colab_url": "https://colab.research.google.com/github/Sneyderx/comparacion-escoliosis-vgg16-yolo/blob/main/Colab_escoliosis.ipynb",
+  "affiliation": "Universidad Simón Bolívar, sede Cúcuta"
 }

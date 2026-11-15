@@ -2,7 +2,7 @@
 
 Yefrey Sneyder Sanchez Alba
 
-Asignatura: Inteligencia artificial | Universidad por completar
+Asignatura: Inteligencia artificial | Universidad Simón Bolívar, sede Cúcuta
 
 ## Resumen
 

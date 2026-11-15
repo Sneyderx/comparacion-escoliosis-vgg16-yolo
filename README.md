@@ -2,7 +2,7 @@
 
 Autor: Yefrey Sneyder Sanchez Alba  
 Asignatura: Inteligencia artificial  
-Universidad: por completar
+Universidad: Universidad Simón Bolívar, sede Cúcuta
 
 ## Resultados ejecutados
 Se completaron cinco semillas por modelo en Google Colab con GPU Tesla T4. Los resultados de prueba son reales y se encuentran en `results/experiment/`.
@@ -59,7 +59,7 @@ python data/cleaning/refine_similarity.py outputs/scoliosis_depurado
 Ejecutar el segundo paso de limpieza una sola vez. Los scripts conservan trazabilidad y excluyen anotaciones incompatibles sin inventar una etiqueta correcta.
 
 ## Artículo y referencias
-El PDF contiene seis páginas de contenido y una de referencias, con doce fuentes. La fuente `.tex` utiliza IEEEtran; puede cargarse en Overleaf junto con la carpeta `figures/`. El PDF entregado fue maquetado a dos columnas y revisado visualmente; la fuente LaTeX no se compiló en el entorno de preparación, por lo que su paginación debe comprobarse al compilarla. Completar la universidad antes de entregar; el enlace del repositorio ya se incorporó al artículo.
+El PDF contiene seis páginas de contenido y una de referencias, con doce fuentes. La fuente `.tex` utiliza IEEEtran; puede cargarse en Overleaf junto con la carpeta `figures/`. El PDF entregado fue maquetado a dos columnas y revisado visualmente; la fuente LaTeX no se compiló en el entorno de preparación, por lo que su paginación debe comprobarse al compilarla. El artículo incluye la universidad y el enlace del repositorio.
 
 Referencia de la CNN: A. C. Baymurat et al., J. Turk. Spinal Surg., 2024, DOI [10.4274/jtss.galenos.2024.41736](https://doi.org/10.4274/jtss.galenos.2024.41736). Lista y justificación en `informe/seleccion_y_referencias.md`.
 
