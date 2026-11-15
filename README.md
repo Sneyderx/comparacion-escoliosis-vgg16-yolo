@@ -68,4 +68,4 @@ Referencia de la CNN: A. C. Baymurat et al., J. Turk. Spinal Surg., 2024, DOI [1
 [Abrir notebook en Google Colab](https://colab.research.google.com/github/Sneyderx/comparacion-escoliosis-vgg16-yolo/blob/main/Colab_escoliosis.ipynb)
 
 ## Uso de IA
-Se utilizó asistencia de IA para apoyar código, análisis y redacción. El autor debe revisar el contenido, las referencias y la interpretación antes de la entrega.
+Se utilizó asistencia de IA para apoyar código y análisis 
