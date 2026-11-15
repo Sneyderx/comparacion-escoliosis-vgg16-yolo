@@ -1,0 +1,42 @@
+name: Importar entrega de escoliosis
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extraer proyecto preservando carpetas
+        shell: python
+        run: |
+          from pathlib import Path
+          import zipfile
+          root = Path.cwd().resolve()
+          with zipfile.ZipFile(root / "proyecto_escoliosis_completo.zip") as archive:
+              assert archive.testzip() is None
+              for item in archive.infolist():
+                  parts = Path(item.filename).parts
+                  assert parts[0] == "proyecto_escoliosis"
+                  if len(parts) < 2:
+                      continue
+                  relative = Path(*parts[1:])
+                  assert ".git" not in relative.parts
+                  target = (root / relative).resolve()
+                  assert root in target.parents
+                  if item.is_dir():
+                      target.mkdir(parents=True, exist_ok=True)
+                  else:
+                      target.parent.mkdir(parents=True, exist_ok=True)
+                      target.write_bytes(archive.read(item))
+      - name: Publicar archivos organizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .gitignore Colab_escoliosis.ipynb config.json entorno_registrado.json GUIA_EJECUCION.md PUBLICAR_REPOSITORIO.md requirements.txt data src results informe
+          git commit -m "Publicar codigo, articulo y resultados de la comparacion de escoliosis"
+          git push origin HEAD:main
