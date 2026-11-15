@@ -1,0 +1,12 @@
+{
+  "test": "Exact paired permutation test of mean macro-F1 difference",
+  "direction": "YOLO minus VGG",
+  "n_pairs": 5,
+  "mean_difference": -0.029576803369776992,
+  "p_value": 0.0625,
+  "alpha": 0.05,
+  "scope": "Training-seed variability conditional on this fixed dataset split; not independent patient-cohort evidence",
+  "null_assumption": "Within each seed, model outcomes are exchangeable under the null; equivalent sign symmetry of paired differences",
+  "conclusion": "Insufficient evidence of a difference at alpha=0.05; this is not equivalence",
+  "minimum_possible_two_sided_p": 0.0625
+}

@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.702416918429003,
+  "precision_macro": 0.7095274087955418,
+  "recall_macro": 0.7012787222429986,
+  "f1_macro": 0.6952875915799043,
+  "specificity_macro": 0.9004336731440625,
+  "auroc_macro_ovr": 0.9099489426765226,
+  "model": "vgg16",
+  "seed": 44,
+  "best_epoch": 11,
+  "final_epoch": 21,
+  "training_and_validation_seconds": 1419.4029510210003,
+  "latency_mean_ms": 9.235871950008914,
+  "latency_median_ms": 9.249531500017838,
+  "latency_p95_ms": 9.308172450096208,
+  "parameter_count": 134276932,
+  "peak_gpu_memory_mb": 3092.86376953125,
+  "training_device": "Tesla T4",
+  "device": "Tesla T4",
+  "signature": "2be4978c602c865ff1de0825b7293c75e90bfa91421c0c850ff483f75ac14fcb"
+}

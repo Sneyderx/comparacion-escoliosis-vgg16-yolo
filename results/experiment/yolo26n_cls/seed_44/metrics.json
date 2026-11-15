@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.6880664652567976,
+  "precision_macro": 0.6834169025240089,
+  "recall_macro": 0.6877673546751452,
+  "f1_macro": 0.684534804002954,
+  "specificity_macro": 0.8959707896615314,
+  "auroc_macro_ovr": 0.8926613180511331,
+  "model": "yolo26n_cls",
+  "seed": 44,
+  "best_epoch": 15,
+  "final_epoch": 25,
+  "training_and_validation_seconds": 1189.1357823850012,
+  "latency_mean_ms": 5.4493210499981615,
+  "latency_median_ms": 5.28080199995884,
+  "latency_p95_ms": 6.173061800080858,
+  "parameter_count": 1536228,
+  "peak_gpu_memory_mb": 328.93994140625,
+  "training_device": "Tesla T4",
+  "device": "Tesla T4",
+  "signature": "2be4978c602c865ff1de0825b7293c75e90bfa91421c0c850ff483f75ac14fcb"
+}

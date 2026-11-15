@@ -1,0 +1,56 @@
+{
+  "input_images": 5960,
+  "retained_images": 5299,
+  "removed_duplicates": 42,
+  "quarantined_images": 619,
+  "polygon_annotations_converted": 3,
+  "boxes_clipped": 63,
+  "known_source_groups": 1136,
+  "seed": 20261114,
+  "target_ratios": {
+    "train": 0.7,
+    "test": 0.25,
+    "val": 0.05
+  },
+  "summary": {
+    "train": {
+      "images": 3710,
+      "groups": 754,
+      "boxes_by_class": {
+        "0": 870,
+        "2": 1022,
+        "3": 804,
+        "1": 1016
+      }
+    },
+    "test": {
+      "images": 1324,
+      "groups": 317,
+      "boxes_by_class": {
+        "3": 287,
+        "0": 312,
+        "1": 362,
+        "2": 365
+      }
+    },
+    "val": {
+      "images": 265,
+      "groups": 65,
+      "boxes_by_class": {
+        "1": 73,
+        "0": 62,
+        "2": 73,
+        "3": 57
+      }
+    }
+  },
+  "checks": "Passed: image integrity, normalized boxes, matching labels; no overlap of file/pixel/mirrored-pixel hashes, source keys, or groups between splits.",
+  "limitations": [
+    "No verified patient identifiers: patient independence cannot be guaranteed.",
+    "Existing augmentation cannot reliably be reversed. Validation/test may include augmented images.",
+    "Perceptual similarity grouping is heuristic: may merge distinct images or miss related images; it is not a verified patient identifier.",
+    "Clinical class definitions and annotation accuracy require expert/source validation."
+  ],
+  "perceptual_similarity_links": 510,
+  "perceptual_method": "64-bit dHash on 9x8 grayscale, including horizontal reflection; Hamming distance <=4 and absolute log-aspect-ratio difference <=0.05. Conservative group union; no images deleted for perceptual similarity."
+}

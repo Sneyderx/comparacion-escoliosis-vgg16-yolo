@@ -1,0 +1,13 @@
+{
+  "python": "3.13.16",
+  "torch": "2.14.1+cu130",
+  "cuda": "13.0",
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "precision": "FP32",
+  "deterministic_algorithms": "warn_only; inspect warnings",
+  "parameter_count": 134276932,
+  "torchvision_from_colab_output": "0.29.1+cu130",
+  "ultralytics_from_colab_output": "8.4.213",
+  "full_pip_freeze": "Stored by the notebook in Google Drive/installed_versions.txt; not included in the uploaded results ZIP."
+}

@@ -1,0 +1,10 @@
+ultralytics>=8.4,<9
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+matplotlib
+openpyxl
+# torch y torchvision: usar la pareja compatible preinstalada en Colab.
+# El notebook guarda pip freeze para fijar las versiones realmente utilizadas.

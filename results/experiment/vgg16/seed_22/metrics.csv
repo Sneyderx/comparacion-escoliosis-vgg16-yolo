@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,specificity_macro,auroc_macro_ovr,model,seed,best_epoch,final_epoch,training_and_validation_seconds,latency_mean_ms,latency_median_ms,latency_p95_ms,parameter_count,peak_gpu_memory_mb,training_device,device,signature
+0.6933534743202417,0.6865603513323685,0.6912569844016805,0.6764145350223012,0.8971541349186123,0.9053313716206149,vgg16,22,4,14,947.8622486910008,9.050671360000706,9.023032499953842,9.170337599977074,134276932,3092.86376953125,Tesla T4,Tesla T4,2be4978c602c865ff1de0825b7293c75e90bfa91421c0c850ff483f75ac14fcb

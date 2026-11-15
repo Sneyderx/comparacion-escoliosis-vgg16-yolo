@@ -1,0 +1,3123 @@
+[
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N108-Rt-TAIS-F-14-Yrs_jpg.rf.4749252a72cc3089582bc16289856b8c.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5255239327296248,
+      0.4266455078125,
+      0.49219922380336356,
+      0.8532958984375
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/2015_GONUL_KURSUNOGLU_10-09-2015_P9100070_JPG_jpg.rf.9f050401ca7bb42af95d500eedd7c4cf.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4836699507389163,
+      0.49108811040339706,
+      0.4550246305418719,
+      0.9821815286624204
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/2015_KAAN_YALCIN_23-02-2016_Kaan-Yalcin-31-1_jpg.rf.e7b6b6532a93e8bbeca6fa722ed2b4c1.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5149873737373737,
+      0.39931640625,
+      0.1852777777777778,
+      0.798642578125
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/2017_DURU_RAKALAR_04-07-2017_P7040019_JPG_jpg.rf.62aadf3d1b2a36b07cc4bde17a20ca8c.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5203385416666667,
+      0.479345703125,
+      0.23727864583333333,
+      0.958701171875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/701_jpeg.rf.2a63b730ea49d29d1655b38d4f8bec8b.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.3835603715170279,
+      0.504608040201005,
+      0.6845510835913313,
+      0.9907889447236181
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/AKTIF__beyza_atak_beyza_atak_2_png_jpg.rf.e75752dcab237dd7aa17a428a643fbe4.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4735621521335807,
+      0.45090512540894223,
+      0.18199443413729127,
+      0.9018211559432934
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/ANKARA_GAZI_OZGU_BERAY_PORTAKAL_66_png_jpg.rf.9984a311cc551ebe782178d854681cac.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4796100628930818,
+      0.4636819637139808,
+      0.38563522012578616,
+      0.9273745997865529
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_053_jpg.rf.4f15374b58f1ee47f6ee93ef49b8fb4c.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.485140625,
+      0.49604687500000005,
+      0.286359375,
+      0.9921093750000001
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_062_jpg.rf.90bd63823d647c11fa4e628379239aa0.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.459811320754717,
+      0.4746458333333334,
+      0.30677358490566037,
+      0.9493020833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_073_jpg.rf.a1bb3ce8a56e12d98b41804886337a05.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.504328125,
+      0.455890625,
+      0.512234375,
+      0.911796875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_112_jpg.rf.a0edb973cb5bb35eb6d0bc18e37fae52.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.52175,
+      0.511390625,
+      0.29171874999999997,
+      0.9772343749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_150_jpg.rf.7b5af3c5fa70cd5209da012f651e6fb2.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4835471698113207,
+      0.4946354166666667,
+      0.7165471698113207,
+      0.98928125
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_153_jpg.rf.5efea9d3f857dbe7650dde2f5f00618d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5363962264150943,
+      0.4746458333333334,
+      0.5505094339622641,
+      0.9493020833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_179_jpg.rf.a75a5e06309ead5722af66b80cf8ba75.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.46847169811320755,
+      0.4779791666666667,
+      0.42224528301886793,
+      0.95596875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_199_jpg.rf.f072f22a4056c3abaf29d6b7c9f35bcf.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4880754716981132,
+      0.5043854166666667,
+      0.8463396226415094,
+      0.9912395833333334
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_229_jpg.rf.3cab13fa84fd908f8c7806bccd17eff8.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4680943396226415,
+      0.4613229166666667,
+      0.6569433962264151,
+      0.92265625
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_262_jpg.rf.03ef8025eada98094a9953136c7811f6.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4511132075471698,
+      0.46048958333333334,
+      0.6969245283018868,
+      0.9209895833333334
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_263_2ndbatch_jpg.rf.05f1eba8f54068cdf8008f4222fb8ac8.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4696037735849056,
+      0.4771458333333333,
+      0.4018679245283019,
+      0.9543020833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/Image_338_2ndbatch_jpg.rf.c13625dfa6e652a753633270045085b9.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5066037735849057,
+      0.4613229166666667,
+      0.26149056603773585,
+      0.92265625
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N5-N-F-31_1_0-Copy_jpg.rf.5419ab6b4e1934fddbb05451c87d9178.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.3609324758842444,
+      0.44032133676092544,
+      0.2909967845659164,
+      0.8806555269922879
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N7-N-M-8_1_0_jpg.rf.8eba69c9b8497529760c7c930b647ac9.jpg",
+    "action": "polygon_to_enclosing_bbox",
+    "count": 1
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N7-N-M-8_1_0_jpg.rf.90efca256026c25af7bd080e1de48a66.jpg",
+    "action": "polygon_to_enclosing_bbox",
+    "count": 1
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N7-N-M-8_1_0_jpg.rf.c3d9c902a69ae23b17ce55e8fd1c8650.jpg",
+    "action": "polygon_to_enclosing_bbox",
+    "count": 1
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-176-A-AP_jpg.rf.1df4a54f6583752babcdc7a6369c93f4.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5018906249999999,
+      0.46392187500000004,
+      0.270734375,
+      0.927859375
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-194-B-AP_jpg.rf.f3ca7ba09ac48de1d408c892a94e1b61.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5782744282744282,
+      0.5242056074766355,
+      0.5051351351351351,
+      0.9515959741193386
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-215-C-AP_jpg.rf.8c536b29c6b451e86df4f2a7221df5f1.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.42578125,
+      0.455890625,
+      0.355125,
+      0.911796875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-12-Jan-2017-272-A-AP_jpg.rf.dd7c5001a567cfd8bae2144b1d0ce811.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.491015625,
+      0.527015625,
+      0.347203125,
+      0.9459843749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-19-Jan-2017-275-B-AP_jpg.rf.7fc32eb232d7d9e6c9f0303a5edb3693.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.435015625,
+      0.49693750000000003,
+      0.315578125,
+      0.993890625
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-20-Jul-2016-16-B-AP_jpg.rf.a9574fe4961920b577af953f3eec2142.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.47903773584905657,
+      0.4588229166666667,
+      0.352811320754717,
+      0.9176562500000001
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-21-Jul-2016-17-A-AP_jpg.rf.828b06cc9554897ae147c5b7992ea852.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.48094339622641513,
+      0.4913020833333333,
+      0.3248867924528302,
+      0.9826145833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-26-Jul-2016-76-B-AP_jpg.rf.abe29f63357cc4b7a4168765f6896e6e.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.42613305613305613,
+      0.5326857490864799,
+      0.5307068607068607,
+      0.9346345919610232
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-26-Jul-2016-90-A-AP_jpg.rf.f7e5578eb0c08b6badb6caa1cd5ca047.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.47071698113207544,
+      0.49583333333333335,
+      0.6275094339622641,
+      0.9916770833333334
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/1099_jpeg.rf.0b4604aedd29e9d946efe1d3facfe626.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.47623121387283235,
+      0.5393524355300859,
+      0.619514450867052,
+      0.9213008595988539
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_054_jpg.rf.e523ed3c74a3bfe79bb454ac9d1a07e6.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5582830188679245,
+      0.4600208333333333,
+      0.3814716981132076,
+      0.9200520833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_114_jpg.rf.15201d3474248d89057b35ab915bfe32.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.519359375,
+      0.45499999999999996,
+      0.350328125,
+      0.910015625
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_145_jpg.rf.9f43e4d56f968caf8d35917cb6944b1f.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5401698113207547,
+      0.46048958333333334,
+      0.39958490566037735,
+      0.9209895833333334
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_148_2ndbatch_png_jpg.rf.5f6e47c8053fa77b45e18611d28ff941.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4030625,
+      0.51696875,
+      0.439171875,
+      0.9660781249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_195_jpg.rf.b2201db1f23631d035145dbabaee0848.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5691875,
+      0.500265625,
+      0.647765625,
+      0.999484375
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_207_jpg.rf.09bbc124adaff8df93f3a0bbff5b124b.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.53565625,
+      0.503578125,
+      0.47665625,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_252_jpg.rf.419d8b5ea634bff60bf1a98529a55929.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.511546875,
+      0.51696875,
+      0.401671875,
+      0.9660781249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_257_jpg.rf.fd570a050d402f19b9d069e57bd8198d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.51221875,
+      0.49945312499999994,
+      0.3940625,
+      0.998921875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_262_2ndbatch_jpg.rf.39cdcfe7162b2c509fa9223fe911a398.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4729375,
+      0.50134375,
+      0.440515625,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_262_2ndbatch_jpg.rf.d3117eda3a3f539995f54d66d9133ea3.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5001698113207547,
+      0.46048958333333334,
+      0.3648867924528302,
+      0.9209895833333334
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_285_jpg.rf.b686481ce58ebfdd4eb3eeb97da5c2e9.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.595015625,
+      0.50134375,
+      0.68465625,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_313_2ndbatch_jpg.rf.4b959687bfc1c2d8a516b307dfd80985.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.48989062499999997,
+      0.503578125,
+      0.5190625,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_334_jpg.rf.b3faa10e4421deae8af4fd8270ac784d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5660000000000001,
+      0.50134375,
+      0.746265625,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_343_jpg.rf.729d306a0baede6ad02b3b92db5b925b.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.63853125,
+      0.50134375,
+      0.5886875,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/Image_345_2ndbatch_jpg.rf.5a4d4ed4c7bc627ca03aed1a6eb4cde4.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.444140625,
+      0.503578125,
+      0.43203125,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N40-S-20-F_1_0_jpg.rf.93a7a3b45e39a75fcf182fae532c247d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.45707812499999995,
+      0.503578125,
+      0.649875,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-04-Jan-2017-165-C-AP_jpg.rf.c389f1fa6fa6ae58d93893bbcba9aaa3.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.513,
+      0.4913020833333333,
+      0.5791886792452831,
+      0.9826145833333333
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-06-Jan-2017-177-B-AP_jpg.rf.7bce43c7c43e74d042e8026da99ef8ae.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.568453125,
+      0.50134375,
+      0.560125,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-06-Jan-2017-179-A-AP_jpg.rf.7e710afa5c72b11fbca425381e62b68c.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5148867924528302,
+      0.47631249999999997,
+      0.45467924528301884,
+      0.9526354166666666
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-09-Jan-2017-215-B-AP_jpg.rf.d0c8dc2da3f9653939e28e39ccfe7c4d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.522421875,
+      0.52478125,
+      0.36090625,
+      0.9504531249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-09-Jan-2017-216-A-AP_jpg.rf.80904f86f98b4e0368b963e55b65bacc.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.474203125,
+      0.505359375,
+      0.377875,
+      0.989296875
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-09-Jan-2017-216-B-AP_jpg.rf.4f3940c3541a02214a8797e17a645efa.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.45685937499999996,
+      0.50134375,
+      0.35926562500000003,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-222-B-AP_jpg.rf.14ab631182d94c8882ff31f10e059c97.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.45709375,
+      0.50134375,
+      0.37310937499999997,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-230-A-AP_jpg.rf.d23f03aa138a81a1aaee5e422a84ea9c.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4479375,
+      0.503578125,
+      0.34140625,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-237-G-AP_jpg.rf.68df34e3a81782c283a70dd2882aa56d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.44815625,
+      0.50134375,
+      0.32846875,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-248-A-AP_jpg.rf.091146c36006cd60f92d40f78867fd44.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.51465625,
+      0.50134375,
+      0.608796875,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-20-Jul-2016-8-A-AP_jpg.rf.c7c3fdd4753a4952ee3ff0d70aeccaa9.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.46728125,
+      0.503578125,
+      0.542578125,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-21-Nov-2016-132-B-AP_jpg.rf.0f1bc6db5a33327c3bfb0b216d06263a.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.517296875,
+      0.50134375,
+      0.431015625,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-21-Nov-2016-138-D-AP_jpg.rf.fbe2a732535627df66032f003a76aa1d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.49831250000000005,
+      0.51696875,
+      0.7368125,
+      0.9660781249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-23-Jan-2017-276-B-AP_jpg.rf.6792d92c29a67d51e67c252c19f42376.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.5352641509433962,
+      0.47631249999999997,
+      0.5105094339622641,
+      0.9526354166666666
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-25-Jan-2017-281-D-AP_jpg.rf.f0a21a8babd2a483dc3a7608e1380a09.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.45484375000000005,
+      0.503578125,
+      0.7302187499999999,
+      0.9928593749999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-25-Jul-2016-47-A-AP_jpg.rf.7a21825da87602024bbfd712e01831bc.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.4894375,
+      0.50134375,
+      0.585125,
+      0.9973281249999999
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-26-Jul-2016-78-B-AP_jpg.rf.87f8d651701fd8022273a6d7a89d2e0d.jpg",
+    "action": "clip_box_to_image",
+    "before": [
+      0.42806249999999996,
+      0.49185937500000004,
+      0.6364687499999999,
+      0.983734375
+    ]
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-12_jpg.rf.46d802c94e29816e871b1cc1084264d9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-12_jpg.rf.242e0fd187e022f0a88c7b836706d1b5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/12_jpg.rf.72d83f7a28c51ccbf5d641ecc79b5173.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/511_jpeg.rf.a3da40306a93512ec615fa3c3ea80878.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-14_jpg.rf.83509ecf67df0839f9587878cd6d5e7e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-14_jpg.rf.175b3ecbb7524e64f950a745edb492f2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/14_jpg.rf.70118c6d1980f9a0d5c0b41d3dfa2246.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/513_jpeg.rf.06f06069006dedd6075b4a1f403a9e37.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-1_jpg.rf.15792ac5ad2d809163aac32b422f6bdb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-1_jpg.rf.22f7f4daa4d98c9933da1844e4835a77.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1_jpg.rf.23b4b407ef4f7823c1864a95095e3994.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1_jpg.rf.e41067f08ceb1e8b5fc0a42df9f52c49.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-22_jpg.rf.f80e63e7a8b8693ea9b4f696c4570e2d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/22_jpg.rf.8a9c423ad29bb5cc639929c934aa73d3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-25_jpg.rf.72bc332076513224424c5aba8ad59436.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-25_jpg.rf.0425093ad97518e1c77355c77f2ba82c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/524_jpeg.rf.8a6010be1d015c56cf04af1354aa45a2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/25_jpg.rf.d7b079c1137a0a7ae020e35cfa6e0ced.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-26_jpg.rf.31d315858b8ba7f466b6eae103b70dd2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-26_jpg.rf.64b940c1d069db8c910dfddb03881d6e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/525_jpeg.rf.5a5dce5ab56b0279885143fef3a25060.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/26_jpg.rf.220086a9b0a35a7db3aae3e6d2b5fa94.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-37_jpg.rf.3ac9efe58727647f1ab55b1f96baab8d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-37_jpg.rf.bbf5b3beac970ffd1ee7de724d0a05a8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/37_jpg.rf.652ae9d186801144066fa7944e05d5aa.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/537_jpeg.rf.e2c3e2a2ed9746f1afc3d6e80ec92ca2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-3_jpg.rf.6a156fcbb78e51419a077e8da7d3587a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/3_jpg.rf.1e7e1b2a38733ba66c496e4d1e927d45.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/529_jpeg.rf.d08d580d3a09211dc2049a42d54d5785.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-46_jpg.rf.6ab85c56d103ecf826b599ff3811574c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/46_jpg.rf.f34fe9db51d693fee75a201645a9f707.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-46_jpg.rf.77e2825a5311a6dac9d0379a748f53f8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/547_jpeg.rf.9b258c6c288f136254cbe066631ac46f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-47_jpg.rf.2f56a28d0654333b31cf29677e031e5d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-47_jpg.rf.d046560eed0345e1f4082684bef9b5ff.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/47_jpg.rf.37fed88c11fe9ec035679542c66e3ede.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/548_jpeg.rf.35c478436cd050e3d5b3d111475918ac.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-50_jpg.rf.7b512a067ae64d6e4a3ac8467f76d840.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/50_jpg.rf.ef5cdb5bc89a34e82b399c99c8eda398.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-54_jpg.rf.6c01ce45060447b032de6de0684a7f30.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-54_jpg.rf.4754dd8044a1980059cda5e26667dde2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/54_jpg.rf.cfa99f420d1d9560218820245e4216d7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/556_jpeg.rf.e312f161d9dd7ad7995840c5764b90f0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-59_jpg.rf.95c82a70d90ff9da6a2fe33c8ed45e5b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/560_jpeg.rf.723fd090f3e98eae224f7ceea1625e5e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-59_jpg.rf.f47009da50544d2ac5d1db5108000427.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-66_jpg.rf.ea4000ad2c3d4b1d3b85bf949fb3e205.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-66_jpg.rf.ce8a7d87dee71065e92ae5b93e8b1d6d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/565_jpeg.rf.c68c29cabfc689319befc68d7cdfaa36.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/66_jpg.rf.718b3e991a5ef898b8f1c3df1357679f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-68_jpg.rf.ef5d5c2b5ec6b36495213216be588ef1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/68_jpg.rf.07c9f1339ed0eb66238eb4d834ec310b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-68_jpg.rf.a3635a2dfdd4eed3d57d5f88e68b8783.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/567_jpeg.rf.f55049d25e615bbade454b3f9925dcaf.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-75_jpg.rf.3874eb33570385a87625437590abc7c6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/75_jpg.rf.d2389e33b99d532f837889a162e1855e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-7_jpg.rf.322ae49dbd3952bc885232523b96572d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-7_jpg.rf.3f67901b525a92533be997ec24a307ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/7_jpg.rf.01d66d4d6bfc979d8df035ea003750d4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/569_jpeg.rf.d5ae53c2f350916ed61e2a321bc8e659.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-81_jpg.rf.8fcd54c841c4fe59a5b0915548327595.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/575_jpeg.rf.0fd2615e2fca6de5ecbbf33990bf7ee1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-88_jpg.rf.c02bde9a1ba7073301377dd8be8088e5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-88_jpg.rf.22e99bc4997e5845eab6cd8b3270744a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/581_jpeg.rf.a2078dea6e8b9eefc8455baa6ae25c69.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/88_jpg.rf.b8226b082a33c3be28c381430541c266.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-89_jpg.rf.3587f057998e2a9181a5632169b1bd29.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-89_jpg.rf.5a95e198dc8a7c2ba78820134064bbd2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/582_jpeg.rf.95bf7e4cf835d82cd638ba7ecadd8162.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/89_jpg.rf.07d15c42e9c16e0bf365564c3db3d646.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-8_jpg.rf.df056c62f4512ce93b8d451362e76bd3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/574_jpeg.rf.23cd3e1e19b0bc118051e34e03799c10.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/8_jpg.rf.d1aaed5db9e2647cc6e4acf190525425.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-90_jpg.rf.f60bfbd1d6138907a0d1dacac383b99d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-90_jpg.rf.f8195fd204ce65bdbcd83f5fcc041c63.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/584_jpeg.rf.2173ff65f85b6957e6eec686fb486505.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/90_jpg.rf.1d156fc365f9cca81ad4a3bc7964ba9a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-96_jpg.rf.dc712e30cefeb8f697d9382795ebed96.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/590_jpeg.rf.c459d3a13b6c7a2f8370be4ee096673c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/96_jpg.rf.b3ef297e4906068d473f53e619beb781.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/01-July-2019-9_jpg.rf.e4ba3ad42d930ba16d2cc8973b0d0e14.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-9_jpg.rf.4e34d0cc507739f44fcd458a438da9f7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/583_jpeg.rf.ef786b9c20081e2aa9b6a6bb36256100.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/9_jpg.rf.bf3fd69498aa3ade313a7e42c75f507d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/10_jpg.rf.797438fe767fe44a364878f8c084f312.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-10_jpg.rf.492f0ca8e05f10747de59380457685f0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-10_jpg.rf.52d3d19afb6d9c0dffef1f763090c33a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/509_jpeg.rf.529853b5f5f68f73f0c114521168a8a8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/20_jpg.rf.fa66464af0f01f0ccb73e9a26c143e5f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-20_jpg.rf.b7787b560ee8ffded8ea604d6db7d824.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/519_jpeg.rf.012b0c912ec78dead8547bda76b1217a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-20_jpg.rf.f085c13409443e99fe63d5efd477e51f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/23_jpg.rf.d92cdc086e3e5c8cca61986f8e977cbb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-23_jpg.rf.13adc75133e6228ab4c35c789e22cbd0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-23_jpg.rf.9065cb28f90b783e077e0dd690a60531.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/522_jpeg.rf.443f355b062108886f44399ae4479658.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/2_jpg.rf.afe1f7b63f7d01c899f92d8ce7bc869e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-2_jpg.rf.c058257815269dc9014d4a5d61513a55.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/518_jpeg.rf.e88f80e3b5cf1178d66323c655dab41b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/36_jpg.rf.e8c9c5cc00e2ddfa0601553a459f74bf.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-36_jpg.rf.064bbfcfe47b0614c1e10999451f9c22.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-36_jpg.rf.1d6dbc7756f0e0d2bc46ad32c21d5075.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/428_jpeg.rf.b307a86e7f22e9af3b88d12855d317eb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-07-Feb-2017-282-A-AP_jpg.rf.670220a6d5200f2a4f484f70a06c7cc0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/42_jpg.rf.409cbf1971f689bf19e2fa8be2c4fc4e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-42_jpg.rf.799c027fc1dc068f6c078d0ffdcf1542.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-42_jpg.rf.dba8fa8145cfc1ecea85913644363350.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/51_jpg.rf.aa436940061294a2c25400feb3437593.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-51_jpg.rf.edfd07e3fd99897000bbac69b050495f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/553_jpeg.rf.db029c907649b674c6ba9f19697daea0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/540_jpeg.rf.f15d404669779a14936880a63cc10a14.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-4_jpg.rf.0bf5b9d7c016540313fbcc9d8be5d8b2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-4_jpg.rf.d9a6a69be2ea5f326f70516dd66dda52.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/4_jpg.rf.94451f47816de0d4bf59bba33230f3a1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/568_jpeg.rf.dde12a8937b3a24647158d54d7ad6065.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-69_jpg.rf.ed470ef29d3bb0372dd6d1c766fa678c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/69_jpg.rf.94033f47b925badf957e31407e02c645.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/70_jpg.rf.6be07e2ef5e88bfe63ad059f0179461b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-70_jpg.rf.7e7752d056debd6207c4fa891be26aa2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-70_jpg.rf.f1b803e33e4659c20fdcaa9692087de2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/570_jpeg.rf.a951938b03fce0c8abaf8f8abfbb89e3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/759_jpeg.rf.6889aab5793e5759f8e09c0743b84c6a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-10-Jan-2017-238-B-AP_jpg.rf.f583a91b86e8eb8994faf865bb1fe29e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N1-N-40-M_1_0-Copy_jpg.rf.d477909c788d51955fcedb32c99e54ac.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N1-N-40-M_1_0_jpg.rf.cd6a8acea7dbb44133915830b10b8310.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N126-Rt-TAIS-F-13-Yrs_jpg.rf.2b18771ae37c8f49b1771cb9bf534c3d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/35_jpeg.rf.acfe714fb1ff1134fc7140577390127e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N13-N-F-15_1_0_jpg.rf.721736dbfd74ca13519cb86e7760d280.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N13-N-F-15_1_0-Copy_jpg.rf.2117d19085c97b36742a2729e5e11cd6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N131-Rt-TAIS-M-15-Yrs_jpg.rf.820683994439a91fc38382e76639c4c7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/43_jpeg.rf.78a6e1f1afe3bfe14299c25d650d80ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N2-N-18-M_1_0-Copy_jpg.rf.220f0601d7a259f7e63a041304e5a665.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N2-N-18-M_1_0_jpg.rf.6999d3131fe2b93f91cfba8a8651ac8e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N21-N-F-17_1_0-Copy_jpg.rf.c13bb0f79792ef9a9c25670c257273ca.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N21-N-F-17_1_0_jpg.rf.350bee67524990bda994796ba4a66d62.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N21-N-F-17_1_0_jpg.rf.fcffe917102765456112b2003ce5a128.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N24-N-M-12_1_0-Copy_jpg.rf.14d3c96a36a4e6f58f851ad97038d827.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N24-N-M-12_1_0_jpg.rf.79fe824a1a5a6efa6005217ba0dddafd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N31-N-F-12-KA00594212_1_0-Copy_jpg.rf.5e6b866397ab54e20c5bb6089c1c450e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N31-N-F-12-KA00594212_1_0_jpg.rf.4b69b0f5a5a47d4536d639db7ee296e4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N36-N-M-23_1_0_jpg.rf.af176aa04616d561ce12f030807f7607.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N36-N-M-23_1_0-Copy_jpg.rf.0925640a760c4abe2f6e453cb7da4e15.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N36-N-M-23_1_0_jpg.rf.8c6e44b27a4cd76376e17695952952ca.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N37-N-M-15_1_0-Copy_jpg.rf.8274fba24e1ddf685c56bc6c84ef7ef8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N37-N-M-15_1_0_jpg.rf.b9b9ddf81b18c73851b87ed101e1a2b0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N43-N-F-24_1_0-Copy_jpg.rf.8f8e08d9219f91f76d392caeaca6ad03.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N43-N-F-24_1_0_jpg.rf.aa36a7a99f76482e91e8868621999eb1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N43-N-F-24_1_0_jpg.rf.092e3eb38dd38e5f15c8326d6c8f30da.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N51-N-19-F_1_0-Copy_jpg.rf.1db59205d0a0aaf0588706ab5548f4e9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N51-N-19-F_1_0_jpg.rf.668dc2e11ec6132c4dc0c1adc60e95ce.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N55-N-33-F_1_0_jpg.rf.eab174d74d4930e1b58aa8c7f749f0bc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N55-N-33-F_1_0-Copy_jpg.rf.5d56a446a01266053bd9d35b7b771777.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N56-N-22-F_1_0_jpg.rf.6c43d3f247b3ea939702d1c87a8e36d1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N56-N-22-F_1_0-Copy_jpg.rf.5e628fd626072f20865b438e5b578de1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N6-N-17-M_1_0-Copy_jpg.rf.c0ce7462534469814169c534cfdcab12.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N6-N-17-M_1_0_jpg.rf.34751d2fbf50fb21f1b9d5da8aecc904.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N6-N-17-M_1_0_jpg.rf.6e756c9fa8c75248e99f710baff6355b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N65-N-10-F_1_0-Copy_jpg.rf.80541b5cf4dd25dd68cdfceed1a6a938.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N65-N-10-F_1_0_jpg.rf.3f47fb53d0c79cb34cb880ed6eacc1ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N65-N-10-F_1_0_jpg.rf.27ee23a1ab254a87efcf6774e29db2b0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N67-N-21-F_1_0-Copy_jpg.rf.ed563514d9c64ff410085219ac12c5a1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N67-N-21-F_1_0_jpg.rf.d39901ece16931ec47f34918ae122ddd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N7-N-14-M_1_0_jpg.rf.3cc1546aa848a538f02a8c16133ccfb3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N7-N-14-M_1_0-Copy_jpg.rf.f811cb940e6f2d1456f98f8d6557f954.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/N7-N-M-8_1_0-Copy_jpg.rf.b5fb7ccdf6c29ae454c927496b2404a3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N7-N-M-8_1_0_jpg.rf.10e65b674284d12915d08a35785288c5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-08-Feb-2017-284-A-AP_jpg.rf.88f369cf8173bb834415d442fd8d7705.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/430_jpeg.rf.fb55e31690e84aa1041937c34968996b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-08-Feb-2017-284-B-AP_jpg.rf.1df82d3d7b4c1cb8203c0cbea762ecdf.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/431_jpeg.rf.9c9bfaadb2d618e070ce223510ee5e35.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-09-Jan-2017-193-A-AP_jpg.rf.cdc9e478a30eda23f0cd51a9df9f2130.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/670_jpeg.rf.ebdecf1d8df191af3877513ae5b0b66b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-09-Jan-2017-202-C-AP_jpg.rf.15c5ec8ddf146b88e59a0aab84a22981.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/692_jpeg.rf.f0b45e454efd3271a87fee5ecbdc618d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-09-Jan-2017-207-B-AP_jpg.rf.567fe7ec32b785fbee7563bfdb7c4479.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/701_jpeg.rf.2a63b730ea49d29d1655b38d4f8bec8b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-09-Jan-2017-219-A-AP_jpg.rf.c55cbe6acd1c36d39406081d1130b19b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/720_jpeg.rf.944cf1420aa40d32a087493f6390a8f5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-10-Jan-2017-230-A-AP_jpg.rf.6a86cf0a9e681210e9346ea9980799cb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/740_jpeg.rf.eca085d247f63f3969b14b4d17f70d78.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-10-Jan-2017-243-C-AP_jpg.rf.cef0200d2b569fa7fdb2e80c62f41aff.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/774_jpeg.rf.6abfae691ddb9170c6f27eecdba87cb4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-26-Jul-2016-74-A-AP_jpg.rf.448be3365d81e696ad26770edc23692b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/486_jpeg.rf.3ea1f96ad2ff4c438920f4f4da2fde05.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-26-Jul-2016-79-A-AP_jpg.rf.0ae7a8520f6896f35fc6eded47adee1f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/495_jpeg.rf.78c8459904b48c491e5e5b28c5f7c46c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-26-Jul-2016-79-B-AP_jpg.rf.27e3d90f50df205c0a30f68ef1cbc49f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-26-Jul-2016-79-B-AP_jpg.rf.447e0f8472402ac2d4a09e7e33a94bd4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-26-Jul-2016-90-B-AP_jpg.rf.2e140bdfcbeecdb187b0c6671e69ae36.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/503_jpeg.rf.8a0cd847b2fb9f3072b0fdda21f70924.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-241-C-AP_jpg.rf.d74cd3685e570e185413ae859468d5be.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1166_jpeg.rf.3d60fd54169d40557a638e8f71a97c2f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-291-M-AP_jpg.rf.29a583d7b1afc1d434fb021420f14fb5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1176_jpeg.rf.e8b4b8028579446313e46b9f04518988.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-291-O-AP_jpg.rf.635c3a3ee089ff65a31e069fa9642cb9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1178_jpeg.rf.a08eebcbb7073a2e01c78d4bf50ab9ed.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-294-B-AP_jpg.rf.4cfdac7d189b73bc73d44de9389d91f0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/1184_jpeg.rf.4442fdd4431f5bcca5f8109ac10c3196.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-295-F-AP_jpg.rf.39c1d8edfc4c6e1d4bed5118463efb92.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1192_jpeg.rf.10f0b815a196aac1171ae15bb41b90eb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-295-H-AP_jpg.rf.3f6d8ec556e283cbd8951663a70551c8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/791_jpeg.rf.a39d7c790bced3e9264c37b5048d10f7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-295-H-AP_jpg.rf.356b56f17ecd6c839e9653d454cd2875.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-296-A-AP_jpg.rf.f8eefb9525419588d5ebb98cc593c6c8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1198_jpeg.rf.32df40d174610984e7dbba0fb28df6c2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-300-B-AP_jpg.rf.a7eb39524528bcfa81d8f2077c6396c8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/797_jpeg.rf.2056c45e13e44e81d632fd02f0a75885.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-300-B-AP_jpg.rf.667cf855bc1166b78f4fb01b7aa3d6d3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-307-A-AP_jpg.rf.d1a56abc73c1a88232cd83bb36a646f6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/1213_jpeg.rf.82359cafeb5a1c75148c323dc63b7fc6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/test/images/sunhl-1th-28-Feb-2017-307-B-AP_jpg.rf.fa5acc7c1030cde8f290ff4e1f38f1a8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/804_jpeg.rf.5bc664d0546c338241dce81a1930d963.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-307-B-AP_jpg.rf.118f5596b73f06ba18d8398dd25a5f9e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-11_jpg.rf.4b71df30ca894e1e8a890a16fe63fd04.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-11_jpg.rf.cd12fb60a968d3c229d73dc7eda0398f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/11_jpg.rf.0247a1e89b1e03260a790d98eba2bee7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/510_jpeg.rf.1fb72c5b44b405f7588a93d2ea874c72.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-12_jpg.rf.b5a709bcd16178466f0476a494054d2c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/511_jpeg.rf.f496e8ff51e98073e46e9a454b18b12d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-13_jpg.rf.1a67ef71727a0049c7b6c49ba83b64be.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-13_jpg.rf.a1ecc51961306f55b68b170859427c69.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/13_jpg.rf.a11b124fbf53872c79bbd02d0fbacce7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/512_jpeg.rf.440f272122608eeb96f820d052e2ec5d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-15_jpg.rf.d30d0c29cac8acde58d56f226289f45c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/15_jpg.rf.daa4bbc9b5b1e62d31961154dffb261f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/514_jpeg.rf.b577a4722c127f08b9748d821334a1f9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-16_jpg.rf.8a0f0c630d11f729e7313abbadc24c23.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/16_jpg.rf.175d434ad52ac0b5a4b112e420055a28.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-17_jpg.rf.080acd51760fb80a9dc4b1e796fc11b3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-17_jpg.rf.944e3c4ded793bc7e3740529dffc9418.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/17_jpg.rf.b4e0f03eb9afef1978f22cf9a269448e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/516_jpeg.rf.717573d5fbe960617fae7a94976ca512.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-23_jpg.rf.6b8732dec74aec18e88be7c2cf214604.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-23_jpg.rf.99d01ca861a53fa43474b44f06adfe47.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-24_jpg.rf.3308a1ceb7d5333a1c678c647ca62d42.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-24_jpg.rf.b103bb8a247104d58d2a8db1c6e8c290.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/24_jpg.rf.fe2b74cbcec64a9d966e873f3199348d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/523_jpeg.rf.ac2fb18404510ff1db1bd1ad9a4aa3fd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-24_jpg.rf.bdbd45d85a473bea73820cecaeab246b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/523_jpeg.rf.6a132c0a261f9805e5d9800f6ea67df3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-26_jpg.rf.4e5bd27e9338a8031caac7cfdce9e0e8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/525_jpeg.rf.86b30816a269e25707a0cdf09fe0a8a9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-28_jpg.rf.1f9da6cac9f865d12dd7dc4a12866885.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-28_jpg.rf.50ec84d52982db7d09630a88b4312031.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/28_jpg.rf.188385cbaa08edadf06778788c3f2704.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-29_jpg.rf.2cd2c0c1f5c110a13e489ff2fbc5f14c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-29_jpg.rf.539d1e03f5eec116c8600df8fbdc583c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/528_jpeg.rf.d93fa2d6123bb0b0bb4435388a75dece.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/29_jpg.rf.829d62ba53859ca9a94622bdf950c1a0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-29_jpg.rf.e63e471c39cc0d7b93240b527450f82c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/528_jpeg.rf.6022b0d65a45da1254b6206b0c2eee10.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-30_jpg.rf.20c9d74daae3d445b2dff9f9ca5f9018.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-30_jpg.rf.3fa8572cd73deec5916f08500ebe2f31.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/30_jpg.rf.fcd119932b7dc1c5d059de9c7cc50a40.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-31_jpg.rf.5d300ed9045b16be7c2ea594f0be3557.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/31_jpg.rf.03720f1f2eac635e9b1afdd03d13544d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/531_jpeg.rf.8d13f71b4165f2ee0680f1a4271b647d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-32_jpg.rf.98bd10145db2e73293e6a71d6690a551.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-32_jpg.rf.9a34ba75afa18253fe0cefad158b3c3a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/32_jpg.rf.41b7ac655aeeb1c12306abece7775d8a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/532_jpeg.rf.962aac42c3c83e827000de03c17df503.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-33_jpg.rf.96f31b53f91f3cdb46cce0dbde5ded27.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/33_jpg.rf.c7e74746e35ba55f9652f94ecb6e8505.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-34_jpg.rf.41cd8b951135dbcebc3b0b887466c58f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-34_jpg.rf.9843815882f16c1442b51da5404137eb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/34_jpg.rf.f943c45a119623ff255e34ab0b22807c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/534_jpeg.rf.5bd3857e83a80abb931a87004e0505a5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-34_jpg.rf.6b1f872d9fb0eb02392e70a818a90ee0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/34_jpg.rf.3161dff2be185b2a5cee8ac2eda0d008.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-34_jpg.rf.92246014414fd16f47a00bb6f81605bb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-34_jpg.rf.f92b5e3c8e57831c33881158b87e8c92.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-35_jpg.rf.df55ecb62b161a4aefb4714a893fbb5b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-35_jpg.rf.edb51cf19a2554c4cebacd4d0faa0116.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/35_jpg.rf.70b2d73f2a80091e8965fea83c4fdfb8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/535_jpeg.rf.73b66da55ca2f10722372c4088140323.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-38_jpg.rf.a3f2588cad7c3da9795ef5c8db449990.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-38_jpg.rf.bb01f48e3037d4773bb52e56c8d3e86b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-38_jpg.rf.e5737b8207fb8e31f919fb5ae1ee851d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/38_jpg.rf.000b777b501928ab252d9d9c43e89c4c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/538_jpeg.rf.ce45b2d9bfb0f45dd408c6d8ea0197ac.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-38_jpg.rf.c089668626de3e0f98bc32f537d18f04.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/38_jpg.rf.c1641607945b84225035164dbc99949d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/538_jpeg.rf.6ea0f4007c1394bf02eff3839f17556c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-39_jpg.rf.1cd02878d3e8e86d75ca435ea6b54e78.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/39_jpg.rf.b44a2502cf7622c27ec2fa05f3ba51ff.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-39_jpg.rf.637de717df6ffc734eac5013d490c657.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-39_jpg.rf.89aac60797e7e5cdecaef8ee208203ba.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/39_jpg.rf.a66a19ae661f08546c236d10ed4cad69.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/539_jpeg.rf.2246ae72ec59ebaf77448044fb538d84.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-41_jpg.rf.427beb1bd9cb81c155746d4e31b2aa8a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-41_jpg.rf.ebd1bb944c6a3ac754e5414d1b9a8460.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/41_jpg.rf.740602244e4cee249d9cf9c7e97eb4b4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/542_jpeg.rf.667a714ba87a1e23b53435f2d1347f61.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-43_jpg.rf.24a9886b3d25e1655967b0653a856637.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-43_jpg.rf.67633146cf40a1f418074ece4116e2b6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/43_jpg.rf.0fc36bf3ad5e93f8634aa900d3d5fe0d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/544_jpeg.rf.23b67495fa7f01565767d1376eb75edd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-44_jpg.rf.1a564f3d35705efd4da76f698d93e7ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-44_jpg.rf.aaed48f398b3e812fbac5f1765fe7c10.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/44_jpg.rf.3113b2cee2822c844bfbb11c8f5cd65d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/545_jpeg.rf.2f17ebda54139ebb7ae4bfe547b4ea08.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-45_jpg.rf.cb16018925ec37e63bd96a30ad2ee3d8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-45_jpg.rf.ce2865b54d6d8e47368c3dec52b648ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/45_jpg.rf.d7e72cfe8c72bb840cff80ae4fc51174.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-48_jpg.rf.1f67e1539ef6a155137a38efd9091063.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-48_jpg.rf.ffb25eb728db8c7a6ee63a3d02ab6ee0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/48_jpg.rf.ee5334b78736b5a89a991355937f81b4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/549_jpeg.rf.219ba736dc353f28fc8859ac68850358.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-49_jpg.rf.132cbe98a6b36cd50d5f05cd52f6d69b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/49_jpg.rf.9f11dd9432461792a1ce113743ad6351.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/550_jpeg.rf.6d31451d06c9822a7368cd296e404661.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-52_jpg.rf.0ab530238d08c94713b9b58f545dab2a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/554_jpeg.rf.941f98376cfe3539af0e44a568865e84.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-52_jpg.rf.2214796ba96273de5e3da412d5c60470.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-52_jpg.rf.fe9aaa05512a5ce9ca30c9ed23aa3f4d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/52_jpg.rf.ac3a7cb19e4ab7f3c98d6fe3085e5f75.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/554_jpeg.rf.98674cefaca8ae5eb802014f71c9e5df.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-53_jpg.rf.b1fb0814f5d29600eb37ba6618de3098.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/53_jpg.rf.321a673c77c324ac529e1fe033d04ac5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/555_jpeg.rf.6cc798591810e26abfddf1a7ad956a9e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-55_jpg.rf.a6c8c31515548c130e65a911f6f67f7c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/55_jpg.rf.0102c941d3aaaf1873413f5340835f29.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-57_jpg.rf.5894a788c522b554c80f687a520d6d6f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/559_jpeg.rf.2b98d2d14144fc5add15e1262684a30b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/57_jpg.rf.0ad793f88abe738e58557d1ea892c63e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-5_jpg.rf.450c2beaee3a43ddbaef6ffa2698f842.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/5_jpg.rf.e3b3ba9380b55daca9912037f397a0f9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-60_jpg.rf.245d776b96402f2e14d16c636725d316.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/60_jpg.rf.1c63997b8954714207a03e1fd499a045.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-60_jpg.rf.7e57095aaf310f219ef619468594cdf5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-60_jpg.rf.8c471d4f156c068d4dc5b9127e40a52e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/562_jpeg.rf.679ce7777780e4d790a8a76302f8c031.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/60_jpg.rf.2617e8f148a151b4653da2011c880ecc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-61_jpg.rf.035db4957de4f84c7f430b2976ae7adb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/61_jpg.rf.873953f274b2c83a189bdd853cce6c3b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-61_jpg.rf.07b6b72746811f98070c5a5f3934d4cb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/61_jpg.rf.2ac12a7244d17e3799f63d8a4af29238.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-62_jpg.rf.ed5d327d5501e645790ae5fc64cb22c6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/62_jpg.rf.388839e9620b04dd3ca606cdd456a68f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-63_jpg.rf.49705b800115406e3d6e4006ede2d6bb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/63_jpg.rf.ab6f612ea07e4eefbe82c608346c59ec.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-65_jpg.rf.98e269bc6ec0839b46d292a1cb378e90.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-65_jpg.rf.eb3b0a86a44af8fd4c0b06d542990856.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/564_jpeg.rf.4e1d6e07aeddebb59e20ef2d574ce06e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/65_jpg.rf.6839da8e08e4699103fad2ada6c8b1fd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-65_jpg.rf.9bd0edf72258fb8711d299aff8b974aa.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/564_jpeg.rf.556183e2b67ab4da11e3269ec1e4dd41.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-66_jpg.rf.6d83d78214b1925754792e9c2bde0924.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/66_jpg.rf.46a7b41961f02ecc76fbb644d25af5bd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-67_jpg.rf.0506a8f62be918057f2e92a68b1dd044.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-67_jpg.rf.b8b99376df74c2a853b6a27c0e491f81.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/67_jpg.rf.7c556ddb9043b710e1db0f398356a22d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-6_jpg.rf.8d5daa902733e4343f8f177c8889e1a2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/561_jpeg.rf.2b5d7dc92e79922234b7e927c430558d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-6_jpg.rf.ea60252795101bbdda44e2986c675588.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/561_jpeg.rf.e1f3a2615b4548f3ed77682dbad93189.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/6_jpg.rf.2c237a6b2f5b139cb93fa8e3cf833fb5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-71_jpg.rf.e952d043134035364f82cbea9999d9f1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/571_jpeg.rf.df49520f0c6c12381214418390c6ada0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/71_jpg.rf.d905fac59d5e7ff59f956cd114ebc2a9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-72_jpg.rf.e37cb69efa5ce948129cc595d7028b4b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/72_jpg.rf.5eee605938d9c8f76f91bb77e89613f8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-74_jpg.rf.08249deabadae99c6f78c0dae63d6f65.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/74_jpg.rf.e22ebd8727ea2c2c4dc3dc9f3f73db2a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-76_jpg.rf.8a7c9825c47a619dcbb6d1a693bdc5eb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/76_jpg.rf.d0151f0483cb2315948c26b9dcdbd864.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-80_jpg.rf.e4fd7221dc76674d67763ad14a1755fe.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/80_jpg.rf.08eafb396c5435ca4eb49d19be610bd3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-83_jpg.rf.17c3510a7da5ceada0dd702c796d2960.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-83_jpg.rf.a49aa0ee33879d76ae72ce0e8653a362.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/577_jpeg.rf.5973d146dad6a3fb9a3b11bf74f7b08c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/83_jpg.rf.a00eeb2e597ef52d074fadc0cf944e17.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-85_jpg.rf.4f764853900f0fba7fa5f22529075202.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-85_jpg.rf.d98fb29c2c3ec158d71d34d412ce0b0f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/579_jpeg.rf.1f34d52e0936f54deda4aee2ab058442.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/85_jpg.rf.a8ca3e4f5f72363106eae27a96fb4758.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-85_jpg.rf.a00b879e4505225f34ad5085cee34bd9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-85_jpg.rf.d0e4937f8397f36391d9d5d6dc8a87bc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/85_jpg.rf.bb4b59cc53e3bc05f6aee3ca3035d90f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-86_jpg.rf.37b335fa8986c5356e9dea60b14aaa06.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/86_jpg.rf.c687e147240a0ed53c330b01796c6383.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-92_jpg.rf.3047d3be845307759a334bb955f0063e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/586_jpeg.rf.51be0a2973a35ca4ad3e12dc685a7855.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-93_jpg.rf.299c3597bf09efd4ceb15143289b2e82.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/587_jpeg.rf.19cc333cd8e2b0fedc1ffe35e25aecd8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/93_jpg.rf.410b3bd353197ee42b47563c2cd7c5b7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-94_jpg.rf.4e2e3b3bfb5473fd0760812b0a0ff634.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-94_jpg.rf.853a2096dd718bb4a38367e2de3c3dbe.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/588_jpeg.rf.58137320157fbfe39ab213b251bbf55a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/94_jpg.rf.576026720ba1f5148c27d4a10707bd16.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-95_jpg.rf.bbc82f8da5214e00055261126e568d6a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/95_jpg.rf.d7f7333f715c2b4736f0b7d0812e164f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-95_jpg.rf.e61f55f0a5b4ac5c36848234848476cb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/95_jpg.rf.1f0250303eb0d7ecbba7b17be32357bb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/589_jpeg.rf.0bbce8f055ffc9c655ca153d6b7f84c3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-97_jpg.rf.29e6131ed3c30c201cf612285e78d0ae.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-97_jpg.rf.65a466bb8cc73d2c00aaa07712fab1a7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/591_jpeg.rf.756251f938c7c131548503b6d313bdf4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/97_jpg.rf.d18e824c19fcc8eebcfdbcafaba85c78.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-97_jpg.rf.7ef19746c66d249e492f4dea16d3c792.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/01-July-2019-98_jpg.rf.8acf2399b978407e7fa04fb52d32f6f0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/592_jpeg.rf.c6aa3e08b24a2bec639fece63afec548.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/98_jpg.rf.20fdb474be9a4ffc3f0afb6b253b3cef.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/11_jpeg.rf.baf9d22602273c30e1e19cf3e97d1e60.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N106-Rt-TAIS-M-12-Yrs_jpg.rf.4f643b05abcf60366ad0dbd20ba2c08d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/24_jpg.rf.53a8536e847a8edeb1e0f68e7b82d69c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/523_jpeg.rf.e81bc38546c051148622c1e252fa79fe.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/40_jpg.rf.6d72dc1de474ecb47ec3f8a5bd7cd340.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-40_jpg.rf.50b0005cb9a6a2dd59be308ba2630458.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/564_jpeg.rf.4d56475751fb41dbf5a8eb7e8461f7a0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/65_jpg.rf.fbba79364b6d4eae219647fb81d779b7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/576_jpeg.rf.71b108f92bd64959ae47b566328454a2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/82_jpg.rf.0af4bde77a05bc0512f01ac1d98b6125.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-82_jpg.rf.5878550aa9e79fa1ebaf6c7524fcd27c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/578_jpeg.rf.0caea7f42a28937c570eff07d507a7b8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-84_jpg.rf.86ed1c78b39d10ac37b16023f8a62516.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/84_jpg.rf.23fe0312d00cd65c1ebba48007501efc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/636_jpeg.rf.3c4b9569e3c3e65f225646bbf2be4d4a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-05-Jan-2017-167-A-AP_jpg.rf.3b11d6db176af83ef8205cf87b3458da.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/643_jpeg.rf.beccbb8b4e0119fa17a9ac590d028f78.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-173-A-AP_jpg.rf.2704c6eb9df03b76cb3041ce114d06d4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/644_jpeg.rf.37c4642990faf0dfb85a4b1d25c45447.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-174-A-AP_jpg.rf.05ee1a4a4a56640365f94a29cd166d29.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/644_jpeg.rf.6a5a167a6e934b122fde31bb8e7336c6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-174-A-AP_jpg.rf.2baae75a7418a578264390873d97d943.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/657_jpeg.rf.6e4efb536e85fb4b9cf8181d569d03d3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-06-Jan-2017-182-B-AP_jpg.rf.b6b71a4edb555bc2c534f2723d58a6a9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/658_jpeg.rf.c2a68c5120f88d50351f1bfc4b4efff8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-06-Jan-2017-182-C-AP_jpg.rf.f5f940520392b97d4c348498e14a9bcc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/660_jpeg.rf.32f72a5e632a44855a7f8c666d8067ca.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-06-Jan-2017-187-A-AP_jpg.rf.5b985177bb4f55f6e0b7940298d6f69f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/660_jpeg.rf.effa82a940a63dffbd136b4628407450.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-06-Jan-2017-187-A-AP_jpg.rf.ca833dc39e3b1410574caeb96c161fa6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/661_jpeg.rf.673e3d4b510d563066fa4885c337a2dc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-06-Jan-2017-189-A-AP_jpg.rf.aa936e900fac594e3aab1bc229f5ac70.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/675_jpeg.rf.a9486a48e4c062bdd3fe35c71cf359dc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-09-Jan-2017-195-A-AP_jpg.rf.cc0d36e071651e377fe83dcf2cbcf6ac.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/688_jpeg.rf.4c4c1da0f0caa1f7c1e480cb8f350edb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-199-C-AP_jpg.rf.38409ce51247d4282cfd6fe37bb3bb22.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/708_jpeg.rf.4a3bcb89601aacf68cee15101285837c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-09-Jan-2017-212-C-AP_jpg.rf.ed5fe688eabba7608b8ad2e6bc94462c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/713_jpeg.rf.ad0f1e0904e17b9d84a95ae496846517.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-215-D-AP_jpg.rf.51b893805a2433c882c0f6b61ee33513.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/732_jpeg.rf.6a34abde70f08e060de75d95d9fe0632.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-10-Jan-2017-227-B-AP_jpg.rf.75f76217de0bb6993294cfd299b76c3b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/732_jpeg.rf.cc0efee965b175f3132b73b8becd72fe.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-10-Jan-2017-227-B-AP_jpg.rf.e3e9289b39240c5453ab7945c761edbc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/734_jpeg.rf.4e0659638859869f256b5298d11d1889.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-227-D-AP_jpg.rf.7661a24f30242e8784f6e0df22ff2b19.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/750_jpeg.rf.c8c94b84e23239a82218650d421f8c1f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-236-A-AP_jpg.rf.899f4a76e6ce7f8202bb38b56639c37d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/768_jpeg.rf.f73c8c630e649bb6a51a02bf8c04b4af.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-241-A-AP_jpg.rf.eafe14b206a5ca6f8147c3afb1d21dea.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/773_jpeg.rf.8cfe8391a1c5079578560c93b98c44b8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-243-B-AP_jpg.rf.1291bce7bf56459cb5d35f53b69bccfb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/786_jpeg.rf.b182c72416fec149b2926963cf3ef8bd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-26-Jul-2016-78-A-AP_jpg.rf.65d438005cea64fe140cb57d616dcb5d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/791_jpeg.rf.553339fbc09a9cd9f75c8941428862bc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-295-H-AP_jpg.rf.3046cc80a2c010d9910a77251d9193ba.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/794_jpeg.rf.78f73cd3c8087c5c81844e99f58c34cf.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-297-A-AP_jpg.rf.ee24530bfc8a9cfa6fa3e1c9470b273b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/795_jpeg.rf.6807f4bf8c153c9a5bbd156e026b1eff.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-28-Feb-2017-298-B-AP_jpg.rf.6f4c20b920d0edc3d2c3a592657d76dc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/797_jpeg.rf.370733de9ed761504c6aeef0418a1dd7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-300-B-AP_jpg.rf.7ed82bc39de666c4034e4fdad88926b2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/91_jpg.rf.c0e88590082fb647d6a3e9966f3ff138.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-91_jpg.rf.cedb6403c4ec94ea717151acddb50668.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/585_jpeg.rf.37e5b975f473c7eefabc6713d72bb268.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N11-N-F-26_1_0-Copy_jpg.rf.df851249e83f168b05af0b75586ce333.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N11-N-F-26_1_0_jpg.rf.481be6488330bacb51c34af86d65760d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-F-14_1_0-Copy_jpg.rf.c4112db347f3985912f7e01765238523.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-F-14_1_0_jpg.rf.27472411207977386732244feff9bfe5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-M-13_1_0-Copy_jpg.rf.37073ccefa3a70112394396665d82f01.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-M-13_1_0_jpg.rf.4f6bb3de7f858c63f1927fcb122a804f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-M-13_1_0-Copy_jpg.rf.f57c0c7f6d343fe3611fb462d1584c31.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N12-N-M-13_1_0_jpg.rf.5879add377c66b04c094e8bdd1fd07cd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N17-N-M-19_1_0_jpg.rf.45e152184d2ced5c2166d0ffffd03b9f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N17-N-M-19_1_0-Copy_jpg.rf.06bf6beda3a861a6b827757a2df1f4c9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N18-N-F-13_1_0-Copy_jpg.rf.ff21227b79bf04c7130dd38f94d5bc81.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N18-N-F-13_1_0_jpg.rf.752283224116d83b9acef725a2b38ccd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N18-N-M-11_1_0-Copy_jpg.rf.fbe914818e431bd25f48e672e64dc732.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N18-N-M-11_1_0_jpg.rf.b47131ea37d714d4858c9e0d48be3ae5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N18-N-M-11_1_0_jpg.rf.14a38e5e95a795a8c4c67bdd3e02966b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N19-N-M-19_1_0-Copy_jpg.rf.1df6650c5ed4b5834216faf72f3ae96e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N19-N-M-19_1_0_jpg.rf.9b201c2944a382cf2a4f429895c6bc1b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N2-N-F-17_1_0-Copy_jpg.rf.63c1c22bc31b9e705a8aaa5c05e30ecb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N2-N-F-17_1_0_jpg.rf.e0f6eb85d195f467f646bf6ecd3c0e4c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N20-N-F-21_1_0-Copy_jpg.rf.246b67f436a60fedf3cbcca118a3d2f9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N20-N-F-21_1_0_jpg.rf.a46efe780856a47319ab3e463fe8d985.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N23-N-F-29_1_0-Copy_jpg.rf.962bbbc2cc9d67ea8c7094c73b7d2c95.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N23-N-F-29_1_0_jpg.rf.25d3c0164b6045e7eb970175cbbb061b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N23-N-M-13_1_0-Copy_jpg.rf.3903efe3aa739a70c788403316a37357.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N23-N-M-13_1_0_jpg.rf.48dc030487dc0dab1b766b62719f80de.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N25-N-F-21_1_0-Copy_jpg.rf.3af61452f1a3aa25ed9a6f17939f6f52.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N25-N-F-21_1_0_jpg.rf.cf9bf28f13545ef8ef0aa9b2c5c73a12.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N26-N-F-26_1_0-Copy_jpg.rf.6db68126e721daba58ee11e4be832a12.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N26-N-F-26_1_0_jpg.rf.30c1d541ea86aebc52aa278889c7be7c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N26-N-F-26_1_0_jpg.rf.ae2fbdda8708e1bcb1e166cde9161bde.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N26-N-F-26_1_0_jpg.rf.9149c964ea24f06f05ec40ee3f2386e7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N26-N-F-26_1_0_jpg.rf.9620745f9f0a4ad26e07c7acd595104e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N27-N-F-22_1_0-Copy_jpg.rf.61e1b6ee128ac3cbc02f74bb71fceaad.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N27-N-F-22_1_0_jpg.rf.d5906911c92102da21426d533c8e4c12.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N3-N-M-14_1_0-Copy_jpg.rf.8d9e09bad93ff7bcef51d78c1fcf0b3e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N3-N-M-14_1_0_jpg.rf.0d3527f9563e1985c4ad8a2004187b63.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N3-N-M-22_1_0-Copy_jpg.rf.53d1e313fdcf158699d3e77f70aa5cfc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N3-N-M-22_1_0_jpg.rf.ec049999e6e6a674db34858f94c55aa0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N32-N-F-F_1_0-Copy_jpg.rf.e8948429db36c838e2f726df1070ebf7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N32-N-F-F_1_0_jpg.rf.ae7b7807a8b60706cb709f822c8fdca7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N33-N-F-20_1_0-Copy_jpg.rf.3f055c021325f8c3eb0b5996c1be4dcb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N33-N-F-20_1_0_jpg.rf.651e811eb4c924df5e950fbae233bc74.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N34-N-M-23_1_0_jpg.rf.5994c87bb547b9a5918d30b5a7307c18.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N34-N-M-23_1_0-Copy_jpg.rf.60e948b3a973d6c661e4a59e989804b0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-F-5_1_0-Copy_jpg.rf.b29615713a4860982234c833cc832e28.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-F-5_1_0_jpg.rf.c8be6ac84b2640cb30bf4a2d804c7636.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-F-5_1_0_jpg.rf.d84c2800d0e62ac3dedb7389fb20f400.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-F-5_1_0_jpg.rf.1f56e2e8f800eaf5e82aeda32673e45c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-F-5_1_0_jpg.rf.8a273cec150cb0f1bf8c62719562487f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-M-9-MONTHS_1_0-Copy_jpg.rf.43d69d576385d7255ae0c16190bd6d67.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N35-N-M-9-MONTHS_1_0_jpg.rf.4374d8daa446e8a57b6618f2a014547e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N38-N-F-11_1_0-Copy_jpg.rf.3a1a45789b715b5c8547bb7215267c13.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N38-N-F-11_1_0_jpg.rf.66332d330664a9056095aaafc22c9c74.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N38-N-F-11_1_0_jpg.rf.d320e90c07bbe900ae15eacda2349489.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N38-N-F-33_1_0-Copy_jpg.rf.ba83f5138564fe056c37d86122ac8716.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N38-N-F-33_1_0_jpg.rf.8aaaf8c089b1a83a49997ec2fc3be049.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N39-N-M-5_1_2-Copy_jpg.rf.55ea2348a92febc3c53795fbb1fb8f41.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N39-N-M-5_1_2_jpg.rf.25583f6fb13978e420ffa5c75d524938.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N39-N-M-5_1_2_jpg.rf.ec6018ba0377163ce397cbb5de9694cd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N39-N-M-5_1_2_jpg.rf.084e0c0caf22dad3fc3d574de5ff02f4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N39-N-M-5_1_2_jpg.rf.e47172ecc1b150937943f9a038d938fd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N4-N-18-M_1_0-Copy_jpg.rf.aecfdf51d9b6826524fdb696a7ed7c38.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N4-N-18-M_1_0_jpg.rf.528c1ec096f2094fd4acd7c6b572cca2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N4-N-M-6_1_0_jpg.rf.290650962bde9e12aed296d91c3904d6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N4-N-M-6_1_0-Copy_jpg.rf.c22f0a09ff09e88b6cf78decbd7afee3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N40-N-F-25_1_0-Copy_jpg.rf.a64d99e8b3047108ed6c305d82ad001f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N40-N-F-25_1_0_jpg.rf.e6d0ae115bfc3c7c094566af8e33344d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N41-N-F-22_1_0-Copy_jpg.rf.a9d40e02346337b439d0f972470975a7.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N41-N-F-22_1_0_jpg.rf.d2ab288a1bfa8098002d2c70697896c0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N41-N-F-22_1_0_jpg.rf.1baf8cee9201495780243acc1b96e9d6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N44-N-M-8_1_0-Copy_jpg.rf.382c432e1b84f59fd816dd529ccb7382.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N44-N-M-8_1_0_jpg.rf.c77d8f0312f17ea5543ef42483bd47f8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N44-N-M-8_1_0_jpg.rf.e4bf811135396ed2ee583ce47964b700.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N45-N-M-36_1_0-Copy_jpg.rf.476523fb26e226f9d69b33a56ee6b299.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N45-N-M-36_1_0_jpg.rf.538f2ba518aca624e5b87da3e435ffd3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N46-N-M-22_1_0-Copy_jpg.rf.91496b5b326bc76b14dd5c11c60ad510.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N46-N-M-22_1_0_jpg.rf.7a2b708c62fe2213f18242bbf6e767f3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N47-N-F-21_1_0-Copy_jpg.rf.468a74a63cc2ab225449192fe1de23d6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N47-N-F-21_1_0_jpg.rf.a8f5f63c70e36065ba47eed715e002d1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N49-N-F-50_1_0-Copy_jpg.rf.5a23e47f4b6066a3bae5fb000441e0fb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N49-N-F-50_1_0_jpg.rf.a8aa7a017f8eee399559019ac820e101.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N49-N-F-50_1_0-Copy_jpg.rf.7fe520e4ab826f017828a6578647cdf6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N49-N-F-50_1_0_jpg.rf.d259c8ecf5ca8b7d1ca73b435b0e36ad.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N49-N-F-50_1_0_jpg.rf.e9cdb9578302e7fdb1cf386ddd05a9ba.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N5-N-14-M_1_0-Copy_jpg.rf.f288462631f38f4b8a422a99231fc323.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N5-N-14-M_1_0_jpg.rf.56d835d46761e7bfb2c73a28b9c3d3ea.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N5-N-F-31_1_0-Copy_jpg.rf.5419ab6b4e1934fddbb05451c87d9178.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N5-N-F-31_1_0_jpg.rf.742de6005ff69dd6b561861cb4e96b5e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N50-N-F-21_1_0-Copy_jpg.rf.37a4f47a06e7207237cc7c1ee6fc74f8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N50-N-F-21_1_0_jpg.rf.4c366572ad8567a64ac39335bfc4a9d5.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N50-N-F-21_1_0_jpg.rf.5b7d79fd7c38216e83136a7cc1a5dc8a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N50-N-F-21_1_0_jpg.rf.1f046c7bcff25f9a73cdb01bae370b33.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N50-N-F-21_1_0_jpg.rf.f684eaf390181798b44d45042fa5862c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N52-N-47-F_1_0_jpg.rf.ae89755c58118facbf701a07551f91d6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N52-N-47-F_1_0-Copy_jpg.rf.f8f3ca719a2f5c9bd8fe971afc45fe29.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N53-N-36-F_1_0-Copy_jpg.rf.dd6500647fb5a93526e97314c8d5fecb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N53-N-36-F_1_0_jpg.rf.125b7d4275a95f10e4b3f2a025fc28b6.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N54-N-35-F_1_0-Copy_jpg.rf.77b7a1941903106deb932bfe14456e20.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N54-N-35-F_1_0_jpg.rf.7d81e75a4d326281d6401c5e0cd4e2b8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N54-N-35-F_1_0-Copy_jpg.rf.e254afd7037044c9c64550ff9d3a3a93.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N54-N-35-F_1_0_jpg.rf.97e679e1cfc1576044002ca57239e3e9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N58-N-43-M_1_0-Copy_jpg.rf.17494b8c37031fda80cb3153955ce4dd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N58-N-43-M_1_0_jpg.rf.dcb74abe2f245fc169cdfbea59f278f9.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N59-N-34M-F_1_0-Copy_jpg.rf.e264120ed2ab25f54f8eec98481ed82a.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N59-N-34M-F_1_0_jpg.rf.65dd22e5ea92e03bc523f7ba18c81371.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N59-N-34M-F_1_0_jpg.rf.c2d7694f93d35739996633df0254cecd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N6-N-F-15_1_0-Copy_jpg.rf.09890d2d2e741138657e1a7d68782053.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N6-N-F-15_1_0_jpg.rf.f38cbeefb0204a9e962f390ddbed5f43.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N62-N-24-M_1_0-Copy_jpg.rf.c727b929d33a53fbf58d8803affa4e14.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N62-N-24-M_1_0_jpg.rf.148d78f126e44f47b759160a9ef0f6c2.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N62-N-24-M_1_0-Copy_jpg.rf.f8bcf1b1d8294d0bc67eca9077f83a8c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N62-N-24-M_1_0_jpg.rf.9204a661faf99131d3b1dbf954561ea0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N63-N-16-M_1_0-Copy_jpg.rf.8ca917b52090bc151bf29cda70d63300.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N63-N-16-M_1_0_jpg.rf.69c98c7c5dd8d493ea3c39040c95c643.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N63-N-16-M_1_0_jpg.rf.8614f1cdfc00e435f6e12684ee4ac41e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N64-N-8-M_1_0_jpg.rf.9abe25e7e6342b1ec81aa28f6ce53566.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N64-N-8-M_1_0-Copy_jpg.rf.020f9a86fbb801566b2aabebfa02956b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N66-N-6-F_1_0-Copy_jpg.rf.e366b28ed49ec7b2182d0c6beae1e2c4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N66-N-6-F_1_0_jpg.rf.80252ed87af9b40995b291a7ac4efb43.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N67-N-5-M_1_0-Copy_jpg.rf.7122577ff2b0f948d67cd8089912bd09.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N67-N-5-M_1_0_jpg.rf.3a31becc2b4cd1370ab39d9d239c6952.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N8-N-F-56_1_0-Copy_jpg.rf.4b5d9ed77be5bdab299e7afbac410201.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N8-N-F-56_1_0_jpg.rf.e0df16379e898f1455946396348b56cb.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N9-N-F-13_1_0-Copy_jpg.rf.62968c451c24b39c84472d2358d544db.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/N9-N-F-13_1_0_jpg.rf.a57204ef8143708df5de3ca4ff5f25d1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/n61-N-33-F_1_0_jpg.rf.c1c7c0bb7912f83f84ad0db7ab9c50f0.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/n61-N-33-F_1_0-Copy_jpg.rf.9a7c75d4644ca207faa078f047674fbe.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-175-A-AP_jpg.rf.3c7e66d8c38c26a3af21c7376b5f4d1f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-05-Jan-2017-175-A-AP_jpg.rf.4b46ca2f668f01c1a80c82c43dc876f4.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/645_jpeg.rf.68139d3d4f671b12694bab128d75b6fc.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-07-Feb-2017-283-A-AP_jpg.rf.8e3ed97ef2df11abcb3798aa0c1a9383.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/429_jpeg.rf.cb2e4984e8d32b4d53c1c2e20d35f30f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-196-B-AP_jpg.rf.27a0d06caf8002ccc3584aacb38d5e48.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-196-B-AP_jpg.rf.5e591f6507783723f08d3f666321d68f.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/677_jpeg.rf.35a9bde53edb6e36fcade49dc12ce449.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-196-D-AP_jpg.rf.c82a9b6ff37b9f30e72f52a94a07fecd.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/679_jpeg.rf.fa31bc55e2ee35a01eac3c3e2c8843a8.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-09-Jan-2017-199-A-AP_jpg.rf.94f0c9c28a013a9630b36388bb6767fa.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/686_jpeg.rf.f90fd50e38c82f576f68076ff62d86e1.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/train/images/sunhl-1th-28-Feb-2017-300-G-AP_jpg.rf.ba4af6aa1e5e4284cd9fa4ebd1ed681b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/799_jpeg.rf.c0adffc211d2cbccd9268776eeb69426.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/01-July-2019-56_jpg.rf.8e2b0872974087de9a03ef6d313b9b41.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/558_jpeg.rf.f4a8101aebda8ceb9fc5444348fbbeaf.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/730_jpeg.rf.31d5acaeb6835510a5e9dfde6f20e578.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-224-A-AP_jpg.rf.f778c34981d94be465b60fa4b4299a9d.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/766_jpeg.rf.2c57201fcc4c3dfdbd85aebdad676c8b.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/sunhl-1th-10-Jan-2017-240-A-AP_jpg.rf.6a002e3aabe7f862ffdad7ff7b8997ff.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N16-N-M-17_1_0-Copy_jpg.rf.823d9d9311252289027598869cd68338.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N16-N-M-17_1_0_jpg.rf.7c35d2c2f42db1cd0ca5eb0a89be758c.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N30-N-M-6_1_0-Copy_jpg.rf.07270e9f6258345fcdc61e34a2285cf3.jpg",
+    "action": "quarantine_conflicting_annotations"
+  },
+  {
+    "source": "scoliosis.v1-new-version-1.yolov5pytorch/valid/images/N30-N-M-6_1_0_jpg.rf.592b7c1ed1dde8b3d9e36974011a148e.jpg",
+    "action": "quarantine_conflicting_annotations"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "model": "vgg16",
+  "seed": 11,
+  "signature": "2be4978c602c865ff1de0825b7293c75e90bfa91421c0c850ff483f75ac14fcb",
+  "config": {
+    "models": [
+      "vgg16",
+      "yolo26n_cls"
+    ],
+    "seeds": [
+      11,
+      22,
+      33,
+      44,
+      55
+    ],
+    "image_size": 224,
+    "batch_size": 16,
+    "max_epochs": 50,
+    "patience": 10,
+    "learning_rate": 0.0003,
+    "momentum": 0.9,
+    "weight_decay": 0.004,
+    "dropout": 0.5,
+    "rotation_degrees": 8,
+    "horizontal_flip_probability": 0.5,
+    "pretrained": true,
+    "num_workers": 2,
+    "latency_warmup": 20,
+    "latency_repetitions": 100
+  },
+  "final_epoch": 26,
+  "training_and_validation_seconds": 1795.843815482,
+  "peak_gpu_memory_mb": 3092.86376953125,
+  "environment": {
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "device": "cuda",
+    "gpu": "Tesla T4",
+    "precision": "FP32",
+    "deterministic_algorithms": "warn_only; inspect warnings",
+    "parameter_count": 134276932
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "images": 5299,
+  "by_split": {
+    "test": 1324,
+    "train": 3710,
+    "val": 265
+  },
+  "by_split_and_class": {
+    "train": {
+      "3": 804,
+      "0": 869,
+      "1": 1015,
+      "2": 1022
+    },
+    "val": {
+      "2": 73,
+      "1": 73,
+      "3": 57,
+      "0": 62
+    },
+    "test": {
+      "0": 310,
+      "2": 365,
+      "3": 287,
+      "1": 362
+    }
+  },
+  "manifest_sha256": "3d1cf29e50b2e678f26d94f3ab89afd936a775b0d063db869ed7763560330d19",
+  "class_names": [
+    "1-derece",
+    "2-derece",
+    "3-derece",
+    "saglikli"
+  ],
+  "task": "image classification; full radiographs; no bounding-box input at inference"
+}

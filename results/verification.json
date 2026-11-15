@@ -1,0 +1,27 @@
+{
+  "completed_runs": 10,
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "prediction_rows_per_run": 1324,
+  "test_groups": 317,
+  "configuration_and_manifest_signature": "2be4978c602c865ff1de0825b7293c75e90bfa91421c0c850ff483f75ac14fcb",
+  "confusion_matrices_recomputed": true,
+  "f1_recomputed_from_predictions": true,
+  "paired_permutation_p_recomputed": 0.0625,
+  "pdf_pages": 7,
+  "body_pages": 6,
+  "references_pages": 1,
+  "abstract_word_count": 206,
+  "visual_review": "All seven pages rendered and inspected; charts enlarged for column readability.",
+  "uncompiled_source": "LaTeX source is provided in IEEEtran format, but no LaTeX compiler is available in the preparation environment. The delivered PDF was independently typeset and visually checked.",
+  "pending": [
+    "University/affiliation"
+  ],
+  "repository_url": "https://github.com/Sneyderx/comparacion-escoliosis-vgg16-yolo",
+  "colab_url": "https://colab.research.google.com/github/Sneyderx/comparacion-escoliosis-vgg16-yolo/blob/main/Colab_escoliosis.ipynb"
+}
